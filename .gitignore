@@ -1,3 +1,4 @@
+temp*.exe
 *.swp
 target/
 **/*.rs.bk
